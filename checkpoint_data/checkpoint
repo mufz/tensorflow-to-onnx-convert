@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/muffadall/work/github_repo/tensorflow-to-onnx-convert/checkpoint_data/checkpoint-1999"
+all_model_checkpoint_paths: "/home/muffadall/work/github_repo/tensorflow-to-onnx-convert/checkpoint_data/checkpoint-1999"

@@ -1,0 +1,2 @@
+
+bazel-bin/tensorflow/tools/graph_transforms/summarize_graph --in_graph=~/work/github_repo/tensorflow-to-onnx-convert/graph/graph.proto
