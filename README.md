@@ -3,7 +3,9 @@
 This repo documents the steps I took to convert tensorflow mnist model to onnx model
 
 1. Train the MNIST model and save the model checkpoint in the checkpoint_data folder 
-#python tf-mnist.py
+```
+python tf-mnist.py
+```
 
 2. Convert the saved TensorFlow graph to graph.proto format 
 #python save_graph_as_proto.py
